@@ -8,6 +8,8 @@
 
 
 Comandos para compilar:
+- mix -S mix
+   FizzBuzz.build("number.txt")
 - mix compile
 - mix test
 
